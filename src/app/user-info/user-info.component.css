@@ -1,0 +1,10 @@
+.downloadButton{
+    width: 70%; 
+    background: linear-gradient(to left, red , orange)
+}
+.rounded-custom-1{
+    border-radius: 20px
+}
+.rounded-custom{
+    border-radius: 12px;
+}

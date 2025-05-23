@@ -1,0 +1,1 @@
+export const PUBLIC_IMG_URL = "http://localhost:4200/images/"
